@@ -1,0 +1,33 @@
+body {
+     color: white;
+     font-weight: bold;
+     text-align: center;
+     align-items: center;
+}
+
+.game-box {
+     display: inline-block;
+     background-color: darkgreen;
+     height: auto 400px;
+     width: 400px;
+     box-shadow: 1px 10px 22px;
+     border: none;
+     border-radius: 20px;
+     padding-top: 10px;         
+}
+
+.sart-game {
+     align-items: center;
+     color: #816f32;
+     width: 200px;
+     height: 40;
+     background: goldenrod;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     font-weight: bold;
+     color: rgb(28, 85, 28);
+     border: none;
+     border-radius: 12px 0px;
+     display: inline-block;
+     margin-bottom: 8px;
+}
